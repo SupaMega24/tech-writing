@@ -27,22 +27,39 @@ These are high-level explainers the define the term, then give some insight into
 
 Simply click on the link to check them out. 
 
+[Arrays](https://www.cyfrin.io/glossary/arrays)
+
 [Automated Market Maker (AMM)](https://www.cyfrin.io/glossary/amm)
 
-[Arrays](https://www.cyfrin.io/glossary/arrays)
+[Blockchain](https://www.cyfrin.io/glossary/blockchain)
+
+[Cryptocurrency](https://www.cyfrin.io/glossary/cryptocurrency)
+
+[Cryptography](https://www.cyfrin.io/glossary/cryptography)
+
+[Decentralized App (dApp)](https://www.cyfrin.io/glossary/dapp)
+
+[Gas](https://www.cyfrin.io/glossary/gas)
 
 [Hash](https://www.cyfrin.io/glossary/hash)
 
 [Hash Function](https://www.cyfrin.io/glossary/hash-function)
 
+[Nodes](https://www.cyfrin.io/glossary/node)
+
+[Nonce](https://www.cyfrin.io/glossary/nonce)
+
 [nSLOC](https://www.cyfrin.io/glossary/nsloc)
 
-[VSCode](https://www.cyfrin.io/glossary/vscode)
-
-[Decentralized App (dApp)](https://www.cyfrin.io/glossary/dapp)
+[Protocol](https://www.cyfrin.io/glossary/protocol)
 
 [Smart Contract](https://www.cyfrin.io/glossary/smart-contract)
 
 [Static Analysis](https://www.cyfrin.io/glossary/static-analysis)
 
 [Structs](https://www.cyfrin.io/glossary/structs)
+
+[Turing-complete](https://www.cyfrin.io/glossary/turing-complete)
+
+[VSCode](https://www.cyfrin.io/glossary/vscode)
+
