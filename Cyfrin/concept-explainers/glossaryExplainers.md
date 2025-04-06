@@ -61,5 +61,7 @@ Simply click on the link to check them out.
 
 [Turing-complete](https://www.cyfrin.io/glossary/turing-complete)
 
+[Transaction](https://www.cyfrin.io/glossary/transaction)
+
 [VSCode](https://www.cyfrin.io/glossary/vscode)
 
